@@ -1,1 +1,1 @@
-##Binance_Stream## is where I experiment with using async, and Backtest.py allows you to backtest your own trading algorithms against different crypto instruments. Both projects have a dedicated ReadMe.
+**Binance_Stream** is where I experiment with using **async**, and **Backtest.py** allows you to *backtest your own trading algorithms* against different crypto instruments. **Both projects have a dedicated ReadMe.**
