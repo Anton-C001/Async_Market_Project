@@ -339,7 +339,7 @@ def main() -> None:
         ]
         render(symbol, df, all_results[symbol])
 
-        plot(all_results) # This is here so that results can be plotted when the program is run in vscode, instead of the terminal. Comment out if you don't want to plot results.
+        # plot(all_results) # This is here so that results can be plotted when the program is run in vscode, instead of the terminal. Comment out if you don't want to plot results.
 
     if args.plot:
         plot(all_results)
