@@ -225,7 +225,7 @@ def backtest(
     df: pd.DataFrame,
     strategy: Strategy,
     name: str,
-    fee: float = 0.01,
+    fee: float = 0.001,
     periods_per_year: float = 365,
 ) -> Result:
     """
